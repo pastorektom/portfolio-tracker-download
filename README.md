@@ -1,6 +1,6 @@
 # Portfolio Tracker – stažení
 
-Jednoduchá aplikace pro Windows na správu portfolia akcií. Ceny, grafy, dividendy, kalendář událostí i AI tipy máte na jednom místě a vaše data vidíte jen vy.
+Jednoduchá aplikace pro Windows na správu portfolia akcií. Ceny, grafy, dividendy, kalendář událostí i AI tipy máte na jednom místě. Ostatní uživatelé vaše data nevidí; správce databáze k nim má technický přístup (více v Zásadách ochrany osobních údajů v aplikaci).
 
 ## 1. Stáhnout
 
@@ -32,4 +32,4 @@ Když vyjde nová verze, aplikace to po přihlášení sama nabídne. Stačí kl
 
 ## 7. Odinstalace
 
-Otevřete **Nastavení Windows › Aplikace › Nainstalované aplikace**, najděte **Portfolio Tracker**, klikněte na tři tečky a **Odinstalovat**. Vaše data v účtu zůstanou uložená, po opětovné instalaci se stejným účtem je znovu uvidíte.
+Otevřete **Nastavení Windows › Aplikace › Nainstalované aplikace**, najděte **Portfolio Tracker**, klikněte na tři tečky a **Odinstalovat**. Vaše data v účtu zůstanou uložená, po opětovné instalaci se stejným účtem je znovu uvidíte. Účet a všechna data trvale smažete v aplikaci v **Nastavení › Účet › Smazat účet**.
